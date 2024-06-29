@@ -15,5 +15,8 @@ performance.
 - Use at least 5 different aggregations with one or more stages that improve the information of the
 dataset.
 
+The quaries:
+group_f.txt
+
 Link to data for project:
 https://drive.google.com/file/d/1b1ixyfr6u8b2IMqQkQAcYjeTTDmu03_C/view?usp=sharing
